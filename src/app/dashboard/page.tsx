@@ -148,7 +148,7 @@ export default function DashboardPage() {
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>
           <h1 className="text-3xl font-extrabold text-slate-900 dark:text-white">
-            Welcome back to your <span className="text-gradient">Dashboard</span>
+            Welcome, Naresh Kumar! to your <span className="text-gradient">Dashboard</span>
           </h1>
           <p className="text-xs font-medium text-emerald-600 dark:text-emerald-400 flex items-center gap-1.5 mt-1.5">
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
